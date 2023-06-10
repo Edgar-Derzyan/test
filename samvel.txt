@@ -1,1 +1,2 @@
-this is a test
+this was a test
+and now we can see the changes
